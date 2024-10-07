@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Isabella! 
+ ![1380-joecomputer](https://github.com/user-attachments/assets/a69a766f-2a1f-4d94-a0d1-c15bd353ae72)
+- 🌱 Studying Software Development at [ETEC Lauro Gomes](https://www.cps.sp.gov.br/etecs/etec-lauro-gomes/)
+  
+- 📚 Languages I'm learning:
+   - C#
+   - Java
+   - JavaScript
+   - PHP
 
-<!--
-**Isa-abc/Isa-abc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔎 Learning Web Development and Design
+  
+- 🤔 I’m looking for help with learning more about Software Development
+  
+- 📫 How to reach me: isabellabstudies@gmail.com
+  
+- ⚡ Check this out: [Helix Nebula](https://www.nasa.gov/image-article/helix-nebula-unraveling-seams/) (Fascinating!) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
