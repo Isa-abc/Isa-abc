@@ -9,11 +9,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,java,ts,cs,angular,bootstrap,react,php,nodejs,figma,mysql,sqlite" />
   </a>
+</section>
+<br>
   <div align="center">
   <a href="https://github.com/Isa-abc">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-abc&layout=compact&langs_count=7&theme=dark"/>
 </div>
-</section>
 <h3>More about me:</h3>    
 
 - 🔎 Learning Web Development, Mobile Development and Design
