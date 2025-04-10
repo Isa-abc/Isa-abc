@@ -15,7 +15,7 @@
   <a href="https://github.com/Isa-abc">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-abc&layout=compact&langs_count=7&theme=dark"/>
 </div>
-    <br clear="both">
+    <br>
 
 <div align="center">
 <p align="center"><b>Visitors Count</b></p> 
