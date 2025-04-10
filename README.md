@@ -15,6 +15,15 @@
   <a href="https://github.com/Isa-abc">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-abc&layout=compact&langs_count=7&theme=dark"/>
 </div>
+    <br>
+
+<div align="center">
+<p align="center"><b>Visitors Count</b></p> 
+<img align="center" src="https://visit-counter.vercel.app/counter.png?page=Isa-abc&s=40&c=21509c&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
+</div>
+
+<br>
+
 <h3>More about me:</h3>    
 
 - 🔎 Learning Web Development, Mobile Development and Design
