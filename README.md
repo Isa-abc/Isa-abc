@@ -25,8 +25,7 @@
     <br>
 
 <div align="center">
-<p align="center"><b>Visitors Count</b></p> 
-<img align="center" src="https://visit-counter.vercel.app/counter.png?page=Isa-abc&s=40&c=FFFFFF&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
+<img align="center" src="https://visit-counter.vercel.app/counter.png?page=Isa-abc&s=40&c=CF9FFF&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
 </div>
 
 <br>
