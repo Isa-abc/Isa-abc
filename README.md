@@ -1,9 +1,10 @@
+<div align="center">
 ## Hi there 👋 I'm Isabella! 
 ![1380-joecomputer](https://github.com/user-attachments/assets/fa68588d-f762-4595-b4d6-48ae96482b05) 
 <section>
 🌱 Studying Software Development at <a href = https://www.cps.sp.gov.br/etecs/etec-lauro-gomes>ETEC Lauro Gomes</a>
 </section>
-
+</div>
 ### Web, Mobile Development and Database 💻 📱
 <section align = "center">
   <a href="https://skillicons.dev">
