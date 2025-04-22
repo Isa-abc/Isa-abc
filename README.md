@@ -1,4 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=120&section=header"/>
+
+
 ## Hi there 👋 I'm Isabella! 
 ![1380-joecomputer](https://github.com/user-attachments/assets/fa68588d-f762-4595-b4d6-48ae96482b05) 
 <section>
