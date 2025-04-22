@@ -1,7 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=120&section=header"/>
 
-
-## Hi there 👋 I'm Isabella! 
+<div style="display: inline_block" align="center">
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e60f50&center=true&multiline=true&repeat=true&width=435&lines=Hello,+World!+Sou+Isabella+Costa!;-----------------------------" />
+</div>
 ![1380-joecomputer](https://github.com/user-attachments/assets/fa68588d-f762-4595-b4d6-48ae96482b05) 
 <section>
 🌱 Studying Software Development at <a href = https://www.cps.sp.gov.br/etecs/etec-lauro-gomes>ETEC Lauro Gomes</a>
