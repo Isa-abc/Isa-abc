@@ -2,7 +2,7 @@
 
 <div style="display: inline_block" align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF9FFF&center=true&multiline=true&repeat=true&width=435&lines=Olá!+Sou+Isabella+Costa!;-----------------------------" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF9FFF&center=true&multiline=true&repeat=true&width=435&lines=Sou+Isabella+Costa!;-----------------------------" />
 </div>
 
 ![1380-joecomputer](https://github.com/user-attachments/assets/fa68588d-f762-4595-b4d6-48ae96482b05) 
