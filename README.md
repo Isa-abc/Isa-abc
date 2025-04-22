@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CF9FFF&height=100&section=header"/>
 
 <div style="display: inline_block" align="center">
   <p>
@@ -40,4 +40,4 @@
   
 - ⚡ Check this out: [Helix Nebula](https://www.nasa.gov/image-article/helix-nebula-unraveling-seams/) (Fascinating!)
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CF9FFF&height=100&section=footer"/>
