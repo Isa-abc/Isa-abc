@@ -38,4 +38,4 @@
   
 - ⚡ Check this out: [Helix Nebula](https://www.nasa.gov/image-article/helix-nebula-unraveling-seams/) (Fascinating!)
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CF9FFF&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9747FF&height=100&section=footer"/>
