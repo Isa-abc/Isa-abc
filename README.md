@@ -5,7 +5,7 @@
 
 ## Studying Software Development at <a href = https://www.cps.sp.gov.br/etecs/etec-lauro-gomes>ETEC Lauro Gomes</a>
 
-[![logos.png](https://i.postimg.cc/fy0BwWZs/logos.png)](https://postimg.cc/GTdkKCHg)
+[![logo.png](https://i.postimg.cc/LXk0f6wV/logo.png)](https://postimg.cc/Hcx21HpJ)
 
 </section>
 
