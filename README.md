@@ -5,7 +5,7 @@
 <section align = "center">
 
 ## Studying Software Development at <a href = https://www.cps.sp.gov.br/etecs/etec-lauro-gomes>ETEC Lauro Gomes</a>
-<br>
+
 </section>
 
 ### Web, Mobile Development and Database 💻 📱
