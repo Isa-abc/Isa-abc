@@ -1,10 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9747FF&height=100&section=header"/>
-
 ## Hello! I'm Isabella 
 
 <section align = "center">
 
 ## Studying Software Development at <a href = https://www.cps.sp.gov.br/etecs/etec-lauro-gomes>ETEC Lauro Gomes</a>
+
+[![logos.png](https://i.postimg.cc/fy0BwWZs/logos.png)](https://postimg.cc/GTdkKCHg)
 
 </section>
 
