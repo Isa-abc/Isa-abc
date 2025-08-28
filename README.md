@@ -13,7 +13,7 @@
 ### Web, Mobile Development and Database 💻 📱
 <section align = "center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,java,ts,cs,angular,bootstrap,react,php,nodejs,figma,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,java,ts,cs,bootstrap,react,php,nodejs,figma,mysql,sqlite" />
   </a>
 </section>
 <br>
