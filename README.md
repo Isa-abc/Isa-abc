@@ -4,7 +4,8 @@
 
 <section align = "center">
 
-## Studying Software Development at <a href = https://www.cps.sp.gov.br/etecs/etec-lauro-gomes>ETEC Lauro Gomes</a>
+## Software development student
+## Technical Degree in Software Development - <a href = https://www.cps.sp.gov.br/etecs/etec-lauro-gomes>ETEC Lauro Gomes</a>
 
 [![logo-smaller.png](https://i.postimg.cc/SNtYL000/logo-smaller.png)](https://postimg.cc/ppzdx6Xk)
 
