@@ -9,13 +9,13 @@
 ### Web, Mobile Development and Database 💻 📱
 <section align = "center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,java,ts,cs,bootstrap,react,php,nodejs,figma,mysql,sqlite" size=200px/>
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,java,ts,cs,bootstrap,react,php,nodejs,figma,mysql,sqlite"/>
   </a>
 </section>
 <br>
   <div align="center">
   <a href="https://github.com/Isa-abc">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-abc&layout=compact&langs_count=7&theme=dark" size= 20px/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-abc&layout=compact&langs_count=7&theme=dark" />
 </div>
     <br>
 
