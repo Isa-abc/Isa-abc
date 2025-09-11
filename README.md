@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9747FF&height=100&section=header"/>
-
 ## Hello! I'm Isabella 
 
 <section align = "center">
@@ -36,5 +34,3 @@
 - 📫 How to reach me: isabellabstudies@gmail.com
   
 - ⚡ Check this out: [Helix Nebula](https://www.nasa.gov/image-article/helix-nebula-unraveling-seams/) (Fascinating!)
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9747FF&height=100&section=footer"/>
