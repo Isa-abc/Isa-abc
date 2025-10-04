@@ -2,11 +2,10 @@
 
 <section align = "center">
 
-## Technical Degree in Software Development - <a href = https://www.cps.sp.gov.br/etecs/etec-lauro-gomes>ETEC Lauro Gomes</a>
+### Technical Degree in Software Development - <a href = https://www.cps.sp.gov.br/etecs/etec-lauro-gomes>ETEC Lauro Gomes</a>
 
 </section>
 
-### Web, Mobile Development and Database 💻 📱
 <section align = "center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,java,ts,cs,bootstrap,react,php,nodejs,figma,mysql,sqlite"/>
@@ -18,10 +17,6 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-abc&layout=compact&langs_count=7&theme=dark" />
 </div>
     <br>
-
-<div align="center">
-<img align="center" src="https://visit-counter.vercel.app/counter.png?page=Isa-abc&s=40&c=CF9FFF&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
-</div>
 
 <br>
 
