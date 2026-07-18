@@ -5,7 +5,6 @@
 ### Technical Degree in Software Development - <a href = https://www.cps.sp.gov.br/etecs/etec-lauro-gomes>ETEC Lauro Gomes</a>
 
 </section>
-
 <section align = "center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,cs,react,php,nodejs,figma,mysql,sqlite"/>
@@ -15,9 +14,6 @@
   <div align="center">
 </div>
     <br>
-
-<br>
-
 <h3>More about me:</h3>    
 
 - 🔎 Learning Web Development, Mobile Development and Design
