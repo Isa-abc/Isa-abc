@@ -18,8 +18,6 @@
 
 - 🔎 Learning Web Development, Mobile Development and Design
   
-- 🤔 I’m looking for help with learning more about Software Development
-  
 - 📫 How to reach me: isabellabstudies@gmail.com
   
 - ⚡ Check this out: [Helix Nebula](https://www.nasa.gov/image-article/helix-nebula-unraveling-seams/) (Fascinating!)
