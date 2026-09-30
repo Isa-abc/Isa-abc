@@ -1,6 +1,6 @@
 ## Hi, I'm Isabella!
 
-## Developer | Frontend | Web | Mobile
+## Developer - Frontend | Web | Mobile
 
 I have a technical degree in Systems Development, I enjoy being creative and finding solutions to problems or challenges that are given to me.
 
