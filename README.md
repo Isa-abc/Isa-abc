@@ -1,35 +1,30 @@
-## Olá, sou a ProGirl!
+## Hi, I'm Isabella!
 
-## Desenvolvedora Front-end | UX/UI
+## Developer | Frontend | Web | Mobile
 
-Sou Desenvolvedora de Sistemas, e faço parte da Comunidade ProGirls. 
-Apaixonada por tecnologia, criatividade
-e resolução de problemas.
+I have a technical degree in Systems Development, I enjoy being creative and finding solutions to problems or challenges that are given to me.
 
-Tenho interesse especial em **Desenvolvimento Frontend,
-UI/UX Design e desenvolvimento de aplicações web**,
-unindo tecnologia e criatividade para criar experiências
-centradas no usuário.
+I'm especially interested in frontend development, game development, UX/UI design and web applications development.
 
-## 📚 O que estou estudando
-- Desenvolvimento de aplicações web e boas práticas.
-- Java e lógica de programação.
-- Interfaces responsivas e acessíveis.
+## What I'm currently learning
+- Mobile Development @[IFSP](https://did.ifsp.edu.br/)
+- Java and Programming Logic.
+- Responsive and accessible interfaces.
 
-## 🛠️ Tecnologias e ferramentas
+## Technologies and tools
 HTML | CSS | JavaScript | Java | PHP | MySQL | Git | Figma
 
-## 🚀 Projeto em destaque
-### Site ProGirls
-Site desenvolvido com o objetivo de apresentar o ProGirls, 
-reunindo informações importantes sobre a comunidade. 
+## Highlight project
+### Libre - Website for readers
+Project developed collaboratively with my TCC team, with the goal of connecting readers and to facilitate the discovery of new books through reviews, reccomendations, and through Google API integration.
+**Techs:** HTML, CSS, JavaScript, PHP and MySQL.
 
-**Tecnologias:** HTML, CSS, JavaScript, PHP e MySQL.
+## A little bit more about me
+- I like having new and meaningful challenges.
+- I'm interested in Tech, Design and UX.
+- I'm a volunteer graphic designer @[Comunidade ProGirls](https://www.linkedin.com/company/pro-girls)
+- Currenly 
 
-## 🌱 Um pouco mais sobre mim
-- Sou a cara da ProGirls!
-- Tenho interesse em tecnologia, design e UX.
-
-## 📫 Vamos nos conectar?
+## Contact or follow me
 [LinkedIn](https://www.linkedin.com/company/pro-girls) |
 [E-mail](mailto:PROGIRLS)
