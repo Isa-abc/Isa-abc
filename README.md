@@ -27,4 +27,4 @@ Project developed collaboratively with my TCC team, with the goal of connecting 
 
 ## Contact or follow me
 [LinkedIn](https://www.linkedin.com/in/isa-abc) |
-[E-mail](mailto:isabellabstudies@gmail.com)
+Email: isabellabstudies@gmail.com
