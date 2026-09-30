@@ -26,5 +26,5 @@ Project developed collaboratively with my TCC team, with the goal of connecting 
 - Currenly 
 
 ## Contact or follow me
-[LinkedIn](https://www.linkedin.com/company/pro-girls) |
-[E-mail](mailto:PROGIRLS)
+[LinkedIn](https://www.linkedin.com/in/isa-abc) |
+[E-mail](mailto:isabellabstudies@gmail.com)
